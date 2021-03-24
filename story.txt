@@ -2,3 +2,7 @@ Hello this is a story about nothing,
 
 I don't know what to write here,
 Can you help me do this??
+
+Yes I can help you out!
+
+but first accept this commit!
